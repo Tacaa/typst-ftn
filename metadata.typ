@@ -1,15 +1,15 @@
-#let format_strane = "iso-b5"         // могуће вредности: iso-b5, a4
+#let format_strane = "a4"         // могуће вредности: iso-b5, a4
 #let naslov = "Шаблон и упутство за писање завршних радова"
-#let autor = "Уписати име и презиме"
+#let autor = "Татјана Гавриловић"
 
 // На енглеском
 #let naslov_eng = "Template and tutorial for thesis preparation"
-#let autor_eng = "Upisati ime i prezime na latinici"
+#let autor_eng = "Tatjana Gavrilović"
 
-#let indeks = "Уписати индекс"
+#let indeks = "R2-38/2023"
 
 // Име и презиме ментора
-#let mentor = "Игор Дејановић"
+#let mentor = "Бранко Милосављевић"
 // Звање: редовни професор, ванредни професор, доцент
 #let mentor_zvanje = "редовни професор"
 
