@@ -23,5 +23,7 @@
         [TF-IDF], [_Term Frequency-Inverse Document Frequency_ (мjera важности термина у документу у односу на цијелу колекцију)],
         [BM25], [_Best Matching 25 — Okapi BM25_ (алгоритам рангирања резултата претраге)],
         [URL], [_Uniform Resource Locator_ (интернет адреса)],
+        [HNSW], [_Hierarchical Navigable Small World_ (графовски алгоритам/индекс за приближну претрагу к-најближих суседа)],
+        [nDCG], [_Normalized Discounted Cumulative Gain_ (мjera квалитета рангирања резултата претраге)],
     ),
 )
