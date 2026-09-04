@@ -76,8 +76,7 @@
 #include "poglavlja/7-vektorska.typ"
 #include "poglavlja/8-hibridizacija-rrf.typ"
 #include "poglavlja/9-evaluacija.typ"
-#include "poglavlja/10-interfejs.typ"
-#include "poglavlja/11-zakljucak.typ"
+#include "poglavlja/10-zakljucak.typ"
 
 
 
