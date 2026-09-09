@@ -21,13 +21,13 @@
 
 #let godina = [#datetime.today().year()]
 
-#let kljucne_reci = "Шаблон, завршни рад, упутство"
+#let kljucne_reci = "текстуална претрага, семантичка претрага, хибридна претрага, српски језик, YouTube подкасти, Elasticsearch, векторске репрезентације, Reciprocal Rank Fusion"
 #let apstrakt = [
      У овом раду је реализован систем за текстуалну претрагу транскрипата _YouTube_ подкаста на српском језику, који омогућава проналажење релевантних епизода и временских исјечака на основу корисничког упита. Корпус обухвата 15.889 транскрибованих епизода са 32 _YouTube_ канала. Систем комбинује лексичку претрагу засновану на алгоритму _BM25_ и семантичку претрагу засновану на моделу _multilingual-e5-base_, док су њихови резултати обједињени методом _Reciprocal Rank Fusion_ (_RRF_). Евалуација на 20 ручно означених упита је показала да семантичка претрага боље проналази релевантан садржај када не постоји непосредно лексичко подударање, док хибридни приступ побољшава његово позиционирање у ранг-листи.
 ]
 
 // На енглеском
-#let kljucne_reci_eng = "Template, thesis, tutorial"
+#let kljucne_reci_eng = "text search, semantic search, hybrid search, Serbian language, YouTube podcasts, Elasticsearch, vector representations, Reciprocal Rank Fusion"
 #let apstrakt_eng = [
      This thesis presents a system for text search over Serbian-language YouTube podcast transcripts, enabling users to find relevant episodes and corresponding time segments based on a textual query. The corpus consists of 15,889 transcribed episodes from 32 YouTube channels. The system combines lexical search based on the BM25 algorithm with semantic search based on the multilingual-e5-base model, while their results are combined using Reciprocal Rank Fusion (RRF). An evaluation conducted on 20 manually annotated queries showed that semantic search is more effective at retrieving relevant content when there is no direct lexical match, while the hybrid approach improves the ranking of relevant results.
 ]
