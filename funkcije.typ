@@ -17,8 +17,7 @@
 
     let appendices = query(heading.where(level: 1))
         .filter(x => x.has("label")
-                and repr(x.label).starts-with("<dodatak")).len()
-
+                and repr(x.label).starts-with("<dodatak")).len()  
 
   (chapters, pages, citations, tables, images, graphics, appendices).map(str).join("/")
 }
