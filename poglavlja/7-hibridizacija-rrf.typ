@@ -210,7 +210,7 @@ reranking_ представља могућност за будуће унапр�
 Алгоритам је приказан на слици @fig-algoritam-fuzije-rrf.
 
 #figure(
-  image("../slike/hibridizacija-algoritam.png"),
+  image("../slike/algoritam-fuzije-rrf.drawio.png"),
   caption: [Алгоритам фузије резултата примјеном _RRF_ методе]
 ) <fig-algoritam-fuzije-rrf>
 
