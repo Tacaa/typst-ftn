@@ -431,7 +431,7 @@ _offline pipeline_-а, независно од обраде појединачн
 на слици @fig:algoritam-batch-embedovanja.
 
 #figure(
-  image("../slike/algoritam-batch-embedovanja.drawio.png"),
+  image("../slike/algoritam-batch-embedovanjaa.drawio.pdf"),
   caption: [Алгоритам _batch embed_-овања корпуса и уписа векторских
     репрезентација у базу]
 ) <fig:algoritam-batch-embedovanja>
@@ -569,7 +569,7 @@ _embedding_ вектора, _ANN_ претрагу над _HNSW_ индексо�
 алгоритма је приказан на слици @fig-algoritam-vektorske-pretrage.
 
 #figure(
-  image("../slike/algoritam-vektorske-pretrage.drawio.png"),
+  image("../slike/algoritam-vektorske-pretragee.drawio.pdf"),
   caption: [Алгоритам векторске претраге]
 ) <fig-algoritam-vektorske-pretrage>
 

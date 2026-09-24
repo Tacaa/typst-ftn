@@ -522,7 +522,7 @@ _`serbian_synonyms`_, _`serbian_stop`_ и _`serbian_stemming`_. Конфигур
 детаљније објашњени у наставку овог одјељка.
 
 #figure(
-  image("../slike/algoritam-indeksiranja-drawio.png"),
+  image("../slike/algoritam-indeksiranja.drawio.pdf",),
   caption: [Алгоритам индексирања у _Elasticsearch_-у]
 ) <fig-algoritam-indeksiranja>
 
@@ -611,7 +611,7 @@ _Elasticsearch_ кластера. Резултат индексирања цје
 приказан на слици @fig-algoritam-pretrage.
 
 #figure(
-  image("../slike/algoritam-elastic-pretrage-drawio.png"),
+  image("../slike/algoritam-pretrage.drawio.pdf"),
   caption: [Алгоритам корисничке претраге у _Elasticsearch_-у]
 ) <fig-algoritam-pretrage>
 
